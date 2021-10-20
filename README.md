@@ -46,3 +46,4 @@ cargo run #--release
 ## Bugs and TODOs
 
 1.  Why is that that I can go outside of the window?
+2.  Draw score and render fps
